@@ -1,0 +1,18 @@
+body{
+    background-color: #d4e8ec;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.round{
+    border-radius: 1rem;
+    
+}
+
+.soft{
+    background-color: #bee2e9;
+}
